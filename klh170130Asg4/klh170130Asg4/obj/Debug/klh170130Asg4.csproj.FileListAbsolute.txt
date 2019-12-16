@@ -1,0 +1,10 @@
+D:\Restricted\UTDallas\Projects\CShapes\klh170130Asg4\klh170130Asg4\bin\Debug\klh170130Asg4.exe.config
+D:\Restricted\UTDallas\Projects\CShapes\klh170130Asg4\klh170130Asg4\bin\Debug\klh170130Asg4.exe
+D:\Restricted\UTDallas\Projects\CShapes\klh170130Asg4\klh170130Asg4\bin\Debug\klh170130Asg4.pdb
+D:\Restricted\UTDallas\Projects\CShapes\klh170130Asg4\klh170130Asg4\obj\Debug\klh170130Asg4.csprojResolveAssemblyReference.cache
+D:\Restricted\UTDallas\Projects\CShapes\klh170130Asg4\klh170130Asg4\obj\Debug\klh170130Asg4.TextSearch.resources
+D:\Restricted\UTDallas\Projects\CShapes\klh170130Asg4\klh170130Asg4\obj\Debug\klh170130Asg4.Properties.Resources.resources
+D:\Restricted\UTDallas\Projects\CShapes\klh170130Asg4\klh170130Asg4\obj\Debug\klh170130Asg4.csproj.GenerateResource.Cache
+D:\Restricted\UTDallas\Projects\CShapes\klh170130Asg4\klh170130Asg4\obj\Debug\klh170130Asg4.csproj.CoreCompileInputs.cache
+D:\Restricted\UTDallas\Projects\CShapes\klh170130Asg4\klh170130Asg4\obj\Debug\klh170130Asg4.exe
+D:\Restricted\UTDallas\Projects\CShapes\klh170130Asg4\klh170130Asg4\obj\Debug\klh170130Asg4.pdb
